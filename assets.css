@@ -1,0 +1,45 @@
+* {
+    font-family:"Times New Roman", Times, serif;
+    padding: 0;      
+    margin: 0;
+}
+.header{ color:rgb(255, 255, 255);
+background-image: url("temateknologi.jpg");
+background-size: cover;
+height: 100px;
+width: 100%;
+font-size: 20px;
+
+}
+.oke{text-align: left;}
+.footer{ color:rgb(255, 255, 255);
+    background-image: url("temateknologi.jpg");
+    background-size: cover;
+    height: 80px;
+    width: 100%;
+    font-size: 15px;
+}
+a{ 
+    color:darkblue;
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:hover {font-size: 150%;}
+
+section { 
+    margin: 10px auto;
+}
+
+section img{
+    border-radius: 100%;
+    }
+    
+td{
+    border: 1px solid;
+}
+tr{
+    border: 1px solid;
+}
